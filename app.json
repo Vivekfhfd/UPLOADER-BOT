@@ -11,22 +11,22 @@
       "value": "ANYTHING"},
 
     "BOT_TOKEN": {"description": "Your bot token, as a string.",
-        "value": "6087356801:AAFMQaW4N-EUG-TjaToWSXD9AfD5uv6o13M"},
+        "value": "6293617359:AAG6U9Rz0UbgRUY1GrHkHFA2_hAhXASD678"},
 
     "API_ID": {"description": "Get this value from https://my.telegram.org",
-     "value": "11615722"},
+     "value": "7273627"},
 
     "API_HASH": {"description": "Get this value from https://my.telegram.org",
-       "value": "c992746520e8886d3330de2ec9a1a3a7"},
+       "value": "ee9172964fda7050eed58701c7ff8917"},
 
     "OWNER_ID": {"description": "Your Telegram ID",
-       "value": "6172502825"},
+       "value": "1833865556"},
 
     "PREMIUM_USER": {"description": "If you are a telegram premium user then set this True",
        "value": "False"},
 
     "DATABASE_URL": {"description": "Your MongoDB URI",
-           "value": "mongodb+srv://ma:ma@cluster0.werde8j.mongodb.net/?retryWrites=true&w=majority"} },
+           "value": "mongodb+srv://Adarshchaudhary:anjuadarsh@cluster0.61sukzy.mongodb.net/?retryWrites=true&w=majority"} },
 
   "addons": [ ],
   "buildpacks": [ {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"},
